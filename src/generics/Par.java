@@ -40,7 +40,6 @@ public class Par<C,V> {
 	}
 
 
-	@SuppressWarnings("rawtypes")
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
